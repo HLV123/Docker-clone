@@ -1,0 +1,14 @@
+{
+  "id": "6f4de92f-15c",
+  "name": "demo-built",
+  "image": "demo-app:v1",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "sleep infinity"
+  ],
+  "pid": 3583,
+  "status": "exited",
+  "created_at": "2026-05-04T00:35:18.495792935+07:00",
+  "exited_at": "2026-05-04T00:35:21.84922818+07:00"
+}

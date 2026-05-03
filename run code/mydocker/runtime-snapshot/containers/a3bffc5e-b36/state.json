@@ -1,0 +1,22 @@
+{
+  "id": "a3bffc5e-b36",
+  "name": "webserver",
+  "image": "nginx:latest",
+  "command": [
+    "/docker-entrypoint.sh",
+    "nginx",
+    "-g",
+    "daemon off;"
+  ],
+  "pid": 3421,
+  "status": "running",
+  "ip": "172.20.168.77",
+  "ports": [
+    {
+      "host_port": 8080,
+      "container_port": 80,
+      "protocol": "tcp"
+    }
+  ],
+  "created_at": "2026-05-04T00:35:17.802248598+07:00"
+}

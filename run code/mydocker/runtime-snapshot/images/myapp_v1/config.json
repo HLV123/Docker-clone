@@ -1,0 +1,13 @@
+{
+  "Entrypoint": null,
+  "Cmd": [
+    "/bin/sh",
+    "/app.sh"
+  ],
+  "Env": [
+    "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+    "APP_ENV=production"
+  ],
+  "WorkingDir": "/app",
+  "User": ""
+}

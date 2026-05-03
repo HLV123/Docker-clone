@@ -1,0 +1,13 @@
+{
+  "id": "1400e5f0-83a",
+  "name": "limited-app",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "sleep infinity"
+  ],
+  "pid": 3552,
+  "status": "running",
+  "created_at": "2026-05-04T00:35:18.197382508+07:00"
+}

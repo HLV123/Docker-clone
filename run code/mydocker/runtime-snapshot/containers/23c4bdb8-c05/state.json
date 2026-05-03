@@ -1,0 +1,14 @@
+{
+  "id": "23c4bdb8-c05",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "echo rootless works!"
+  ],
+  "pid": 8675,
+  "status": "exited",
+  "created_at": "2026-05-03T22:34:03.296640284+07:00",
+  "exited_at": "2026-05-03T22:34:03.401953352+07:00",
+  "exit_code": 1
+}

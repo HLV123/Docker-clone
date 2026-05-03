@@ -1,0 +1,14 @@
+{
+  "id": "dc76a49d-50d",
+  "name": "example_api",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "/bin/sh -c \"while true; do echo 'API running'; sleep 10; done\""
+  ],
+  "pid": 3834,
+  "status": "running",
+  "ip": "172.20.194.107",
+  "created_at": "2026-05-04T00:35:31.736560681+07:00"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "98f67ce0-5c1",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/echo",
+    "test"
+  ],
+  "pid": 21777,
+  "status": "exited",
+  "created_at": "2026-05-03T23:10:08.239893971+07:00",
+  "exited_at": "2026-05-03T23:10:08.355768543+07:00",
+  "exit_code": 0
+}

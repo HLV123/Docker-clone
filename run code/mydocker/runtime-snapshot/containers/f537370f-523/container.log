@@ -1,0 +1,18 @@
+Unknown command: init
+Usage: mydocker-compose [-f <file>] <command> [options]
+
+Commands:
+  up [-d]              Start all services (-d for detached)
+  down                 Stop and remove all services
+  ps                   List service status
+  logs [service...]    Show logs
+  exec <svc> <cmd>     Execute in running service
+  build                Build service images
+  pull                 Pull service images
+  config               Validate compose file
+
+Examples:
+  mydocker-compose up -d
+  mydocker-compose logs web
+  mydocker-compose exec web /bin/sh
+  mydocker-compose down

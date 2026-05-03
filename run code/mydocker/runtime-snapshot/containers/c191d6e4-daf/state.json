@@ -1,0 +1,15 @@
+{
+  "id": "c191d6e4-daf",
+  "name": "example_api",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "/bin/sh -c \"while true; do echo 'API running'; sleep 10; done\""
+  ],
+  "pid": 12148,
+  "status": "exited",
+  "ip": "172.20.166.208",
+  "created_at": "2026-05-03T22:49:56.023081289+07:00",
+  "exited_at": "2026-05-03T22:50:00.327976157+07:00"
+}

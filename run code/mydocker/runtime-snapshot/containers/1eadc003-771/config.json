@@ -1,0 +1,8 @@
+{
+  "env": [
+    "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+  ],
+  "volumes": [],
+  "hostname": "container",
+  "working_dir": "/"
+}

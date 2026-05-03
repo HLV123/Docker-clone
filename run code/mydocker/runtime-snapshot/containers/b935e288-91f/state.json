@@ -1,0 +1,16 @@
+{
+  "id": "b935e288-91f",
+  "name": "auto-restart",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "sleep 3"
+  ],
+  "pid": 3869,
+  "status": "exited",
+  "ip": "172.20.58.14",
+  "created_at": "2026-05-04T00:35:22.844410562+07:00",
+  "exited_at": "2026-05-04T00:35:38.247024378+07:00",
+  "exit_code": 0
+}

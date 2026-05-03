@@ -1,0 +1,8 @@
+{
+  "env": [
+    "APP_ENV=production",
+    "LOG_LEVEL=info"
+  ],
+  "volumes": [],
+  "hostname": "api"
+}

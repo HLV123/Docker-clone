@@ -1,0 +1,13 @@
+{
+  "id": "200d47fd-7e8",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "sleep 60"
+  ],
+  "pid": 22460,
+  "status": "exited",
+  "created_at": "2026-05-03T23:15:33.598764682+07:00",
+  "exited_at": "2026-05-04T00:35:21.84417486+07:00"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "165bb72e-a93",
+  "name": "example_web",
+  "image": "nginx:latest",
+  "command": [
+    "/docker-entrypoint.sh",
+    "nginx",
+    "-g",
+    "daemon off;"
+  ],
+  "pid": 12088,
+  "status": "exited",
+  "ip": "172.20.222.43",
+  "ports": [
+    {
+      "host_port": 8080,
+      "container_port": 80,
+      "protocol": "tcp"
+    }
+  ],
+  "created_at": "2026-05-03T22:49:55.360049499+07:00",
+  "exited_at": "2026-05-03T22:50:00.327706378+07:00"
+}

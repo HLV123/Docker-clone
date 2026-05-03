@@ -1,0 +1,14 @@
+{
+  "id": "76bdc045-1b5",
+  "name": "example_db",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "echo 'DB started' \u0026\u0026 sleep infinity"
+  ],
+  "pid": 3851,
+  "status": "running",
+  "ip": "172.20.13.111",
+  "created_at": "2026-05-04T00:35:32.409411152+07:00"
+}

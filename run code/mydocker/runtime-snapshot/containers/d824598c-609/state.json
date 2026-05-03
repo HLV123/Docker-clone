@@ -1,0 +1,11 @@
+{
+  "id": "d824598c-609",
+  "name": "webserver",
+  "image": "nginx:latest",
+  "command": null,
+  "pid": 10676,
+  "status": "exited",
+  "ip": "172.20.159.253",
+  "created_at": "2026-05-03T22:42:56.740307506+07:00",
+  "exited_at": "2026-05-03T22:42:58.936766503+07:00"
+}

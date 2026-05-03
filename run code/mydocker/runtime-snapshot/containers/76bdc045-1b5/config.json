@@ -1,0 +1,11 @@
+{
+  "env": null,
+  "volumes": [
+    {
+      "host_path": "/var/lib/mydocker/volumes/dbdata",
+      "container_path": "/data",
+      "read_only": false
+    }
+  ],
+  "hostname": "db"
+}

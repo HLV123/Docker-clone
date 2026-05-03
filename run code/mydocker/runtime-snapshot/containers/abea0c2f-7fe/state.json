@@ -1,0 +1,15 @@
+{
+  "id": "abea0c2f-7fe",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "sleep 30"
+  ],
+  "pid": 13377,
+  "status": "exited",
+  "ip": "172.20.246.35",
+  "created_at": "2026-05-03T22:55:19.580399055+07:00",
+  "exited_at": "2026-05-03T22:55:49.688542295+07:00",
+  "exit_code": 0
+}

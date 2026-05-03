@@ -1,0 +1,14 @@
+{
+  "id": "e3bd684f-94b",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "echo works!"
+  ],
+  "pid": 8718,
+  "status": "exited",
+  "created_at": "2026-05-03T22:35:34.734218184+07:00",
+  "exited_at": "2026-05-03T22:35:34.873019072+07:00",
+  "exit_code": 0
+}

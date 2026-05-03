@@ -1,0 +1,7 @@
+{
+  "env": [
+    "DB_URL=postgres://localhost/mydb"
+  ],
+  "volumes": [],
+  "hostname": "container"
+}

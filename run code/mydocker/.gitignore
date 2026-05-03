@@ -1,0 +1,6 @@
+mydocker
+mydockerd
+mydocker-compose
+*.zip
+*.tar.gz
+/tmp/

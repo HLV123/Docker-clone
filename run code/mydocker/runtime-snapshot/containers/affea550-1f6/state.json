@@ -1,0 +1,15 @@
+{
+  "id": "affea550-1f6",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "sleep 30"
+  ],
+  "pid": 21885,
+  "status": "exited",
+  "ip": "172.20.176.71",
+  "created_at": "2026-05-03T23:11:20.568491056+07:00",
+  "exited_at": "2026-05-03T23:11:50.645586062+07:00",
+  "exit_code": 0
+}

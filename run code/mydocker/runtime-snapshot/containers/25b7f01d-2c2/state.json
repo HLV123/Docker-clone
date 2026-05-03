@@ -1,0 +1,14 @@
+{
+  "id": "25b7f01d-2c2",
+  "name": "api-service",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "sleep infinity"
+  ],
+  "pid": 3532,
+  "status": "running",
+  "ip": "172.20.64.94",
+  "created_at": "2026-05-04T00:35:18.004641387+07:00"
+}

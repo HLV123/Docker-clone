@@ -1,0 +1,15 @@
+{
+  "id": "f537370f-523",
+  "name": "example_api",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "/bin/sh -c \"while true; do echo 'API running'; sleep 10; done\""
+  ],
+  "pid": 12019,
+  "status": "exited",
+  "ip": "172.20.52.161",
+  "created_at": "2026-05-03T22:49:26.027679169+07:00",
+  "exited_at": "2026-05-03T22:49:30.350229417+07:00"
+}

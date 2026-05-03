@@ -1,0 +1,15 @@
+{
+  "id": "61645e67-dfa",
+  "name": "example_db",
+  "image": "alpine:latest",
+  "command": [
+    "/bin/sh",
+    "-c",
+    "echo 'DB started' \u0026\u0026 sleep infinity"
+  ],
+  "pid": 12031,
+  "status": "exited",
+  "ip": "172.20.184.227",
+  "created_at": "2026-05-03T22:49:26.682176862+07:00",
+  "exited_at": "2026-05-03T22:49:30.350401794+07:00"
+}
